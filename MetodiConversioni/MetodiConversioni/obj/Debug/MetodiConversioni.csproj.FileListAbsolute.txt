@@ -1,0 +1,8 @@
+C:\Users\Marcello\Desktop\robe scuola\esercizi sistemi\MetodiConversioni\MetodiConversioni\bin\Debug\MetodiConversioni.exe.config
+C:\Users\Marcello\Desktop\robe scuola\esercizi sistemi\MetodiConversioni\MetodiConversioni\bin\Debug\MetodiConversioni.exe
+C:\Users\Marcello\Desktop\robe scuola\esercizi sistemi\MetodiConversioni\MetodiConversioni\bin\Debug\MetodiConversioni.pdb
+C:\Users\Marcello\Desktop\robe scuola\esercizi sistemi\MetodiConversioni\MetodiConversioni\obj\Debug\MetodiConversioni.csproj.AssemblyReference.cache
+C:\Users\Marcello\Desktop\robe scuola\esercizi sistemi\MetodiConversioni\MetodiConversioni\obj\Debug\MetodiConversioni.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marcello\Desktop\robe scuola\esercizi sistemi\MetodiConversioni\MetodiConversioni\obj\Debug\MetodiConversioni.csproj.CoreCompileInputs.cache
+C:\Users\Marcello\Desktop\robe scuola\esercizi sistemi\MetodiConversioni\MetodiConversioni\obj\Debug\MetodiConversioni.exe
+C:\Users\Marcello\Desktop\robe scuola\esercizi sistemi\MetodiConversioni\MetodiConversioni\obj\Debug\MetodiConversioni.pdb
